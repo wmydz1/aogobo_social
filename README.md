@@ -17,7 +17,7 @@ Why Volunteer With Us?
 
 We’re Looking For:
 
-    Developers: Skilled in JavaScript, React, Node.js, or any other modern frameworks and technologies.
+    Developers: Skilled in JavaScript, React, Nextjs, Rust,or any other modern frameworks and technologies.
     Designers: Creative minds with experience in UX/UI, capable of designing intuitive and user-friendly interfaces.
     Product Managers: Visionaries who can help steer the project, from conceptualization to launch.
     Marketers and Community Builders: Individuals who can help spread the word, engage potential users, and build a vibrant community.
