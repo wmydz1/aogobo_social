@@ -1,6 +1,5 @@
 # aogobo_social
 
-Certainly! Here’s a recruitment call for GitHub volunteers for developing the next generation of social networking, written in English:
 
 Join Us in Shaping the Future of Social Networking!
 
